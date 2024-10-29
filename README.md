@@ -16,3 +16,14 @@ git clone https://github.com/g-lemoing/S2_04_MongoDB_queries.git
 6. Buscar i carregar el fitxer restaurants.json
 
 Per realitzar les queries, es pot obrir el MongoDB Shell des del Compass, i enganxar cada consulta del fitxer Mongo_db_restaurants_queries.js.
+
+## Contribuciones:
+1. Crear un fork del repositorio: 
+2. Clonar el repositorio hacia el directorio local marcado por git bash
+ git clone https://github.com/YOUR-USERNAME/S2_04_MongoDB_queries.git
+3. Crear una rama
+git branch BRANCH-NAME
+git checkout BRANCH-NAME
+4. Realizar cambios o comentarios, y hacer un commit: git commit -m 'mensaje cambios'
+5. Subir cambios a tu nueva rama: git push origin BRANCH-NAME
+6. Hacer un pull request
